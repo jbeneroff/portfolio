@@ -1,5 +1,9 @@
 ## My Portfolio
 
+## About Me
+
+I am a software engineer with extensive and diverse background in full-stack development, data analysis with python, preclinical neuroscience research, and medicine looking to work in and advance a field utilizing new technologies.
+
 ## [DeCryptor Website](https://decryptor.netlify.app/)
 
 **DeCryptor** is an online community where crypto traders and enthusiasts can engage in a discussion and share their thoughts on the the most popular cryptocurrencies. Users can create an account, view information on top cryptocurrencies, post about a specific cryptocurrency, and comment on other posts.
