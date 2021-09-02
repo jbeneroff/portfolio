@@ -1,4 +1,5 @@
-## My Portfolio
+## Jared Beneroff
+### Software Engineer
 
 ## About Me
 
