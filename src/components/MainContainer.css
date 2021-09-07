@@ -1,6 +1,11 @@
 #logo1, #logo2, #logo3, #logo4 {
   height: 150px;
   width: 300px;
+  transition: all 0.3s;
+}
+
+#logo1:hover, #logo2:hover, #logo3:hover, #logo4:hover {
+  transform: scale(1.1);
 }
 
 .projects {
