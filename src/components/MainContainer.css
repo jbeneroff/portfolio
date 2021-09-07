@@ -1,0 +1,22 @@
+#logo1, #logo2, #logo3, #logo4 {
+  height: 200px;
+  width: 400px;
+}
+
+.project-div {
+  display: flex;
+  flex-direction: row;
+}
+
+#proj1, #proj2, #proj3, #proj4 {
+  flex: 1;
+}
+
+.skills-div {
+  display: flex;
+  flex-direction: row;
+}
+
+#languages, #management, #methods, #databases {
+  flex: 1;
+}
