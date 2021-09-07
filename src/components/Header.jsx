@@ -7,10 +7,10 @@ export default function Header() {
         <h1 id='name'>Jared Beneroff</h1>
       </div>
       <div className='nav'>
-        <p className='nav-item' id='about-nav'>About</p>
-        <p className='nav-item' id='projects-nav'>Portfolio</p>
-        <p className='nav-item' id='skills-nav'>Skills</p>
-        <p className='nav-item' id='contanct-nav'>Contact</p>
+        <a className='nav-item' id='about-nav' href='#about-header'>About</a>
+        <a className='nav-item' id='projects-nav' href='#projects-header'>Portfolio</a>
+        <a className='nav-item' id='skills-nav' href='#skills-header'>Skills</a>
+        <a className='nav-item' id='contanct-nav' href='#contact-header'>Contact</a>
       </div>
     </div>
   )
