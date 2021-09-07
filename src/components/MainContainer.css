@@ -3,6 +3,13 @@
   width: 300px;
 }
 
+.projects {
+  background-color: white;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #141B28;
+}
+
 .project-div {
   display: flex;
   flex-direction: row;
@@ -11,6 +18,20 @@
 
 #proj1, #proj2, #proj3, #proj4 {
   flex: 1;
+  margin: 10px;
+}
+
+#projects-header {
+  margin: 0px;
+  padding-top: 40px;
+  color: #141B28;
+}
+
+.skills {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #37676E;
+  color: white;
 }
 
 .skills-div {
@@ -20,17 +41,37 @@
 
 #languages, #management, #methods, #databases {
   flex: 1;
+  margin: 10px;
 }
 
 .about {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #141B28;
+  padding: 80px;
+}
+
+#about-header {
+  color: white;
 }
 
 #about-info {
   margin: 10px;
   width: 50%;
   text-align: center;
+  color: white;
+}
 
+#github, #linkedin {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
+
+.contact {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #163559;
+  color: white;
 }

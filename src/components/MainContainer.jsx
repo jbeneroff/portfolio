@@ -8,11 +8,11 @@ export default function MainContainer() {
   return (
     <div>
       <div className='about'>
-        <h1>About Me</h1>
-        <p id='about-info'>I am a software engineer with extensive and diverse background in full-stack development, data analysis with python, preclinical neuroscience research, and medicine looking to work in and advance a field utilizing new technologies.</p>
+        <h1 id='about-header'>About Me</h1>
+        <p id='about-info'>I am a software engineer with an extensive and diverse background in full-stack development, data analysis with python, preclinical neuroscience research, and medicine looking to work in and advance a field utilizing new technologies.</p>
       </div>
       <div className='projects'>
-        <h1>Projects</h1>
+        <h1 id='projects-header'>Projects</h1>
         <div className='project-div'>
           <div id='proj1'>
             <h2>DeCryptor</h2>
@@ -45,7 +45,7 @@ export default function MainContainer() {
         </div>
       </div>
       <div className='skills'>
-        <h1>Skills</h1>
+        <h1 id='skills-header'>Skills</h1>
         <div className='skills-div'>
           <div id='management'>
             <h2>Management and Deployment</h2>
@@ -66,11 +66,11 @@ export default function MainContainer() {
         </div>
       </div>
       <div className='contact'>
-        <h1>Contact Me</h1>
-        <p>(201) 572-5227</p>
-        <p>jared.beneroff@gmail.com</p>
-        <a href="https://github.com/jbeneroff">GitHub</a>
-        <a href="https://www.linkedin.com/in/jared-beneroff/">LinkedIn</a>
+        <h1 id='contact-header'>Contact Me</h1>
+        <p id='number'>(201) 572-5227</p>
+        <p id='email'>jared.beneroff@gmail.com</p>
+        <a id='github' href="https://github.com/jbeneroff">GitHub</a>
+        <a id='linkedin' href="https://www.linkedin.com/in/jared-beneroff/">LinkedIn</a>
       </div>
     </div>
   )
