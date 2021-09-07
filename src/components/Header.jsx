@@ -1,18 +1,16 @@
 import './Header.css'
 
-import React from 'react'
-
 export default function Header() {
   return (
     <div className='header'>
-      <div id='name'>
-        <h1>Jared Beneroff</h1>
+      <div>
+        <h1 id='name'>Jared Beneroff</h1>
       </div>
-      <div id='nav'>
-        <p>About</p>
-        <p>Portfolio</p>
-        <p>Skills</p>
-        <p>Contact</p>
+      <div className='nav'>
+        <p className='nav-item' id='about-nav'>About</p>
+        <p className='nav-item' id='projects-nav'>Portfolio</p>
+        <p className='nav-item' id='skills-nav'>Skills</p>
+        <p className='nav-item' id='contanct-nav'>Contact</p>
       </div>
     </div>
   )

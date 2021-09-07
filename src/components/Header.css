@@ -4,7 +4,16 @@
   justify-content: space-between;
 }
 
-#nav {
+.nav {
   display: flex;
   flex-direction: row;
+}
+
+#name {
+  font-family: "Montserrat", sans-serif;
+  margin-left: 20px;
+}
+
+.nav-item {
+  margin: 5px;
 }

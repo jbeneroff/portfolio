@@ -1,11 +1,12 @@
 #logo1, #logo2, #logo3, #logo4 {
-  height: 200px;
-  width: 400px;
+  height: 150px;
+  width: 300px;
 }
 
 .project-div {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 #proj1, #proj2, #proj3, #proj4 {
@@ -19,4 +20,17 @@
 
 #languages, #management, #methods, #databases {
   flex: 1;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#about-info {
+  margin: 10px;
+  width: 50%;
+  text-align: center;
+
 }
