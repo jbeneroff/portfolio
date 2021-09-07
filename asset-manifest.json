@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5a4f18f8.chunk.css",
-    "main.js": "/portfolio/static/js/main.a3eac428.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a3eac428.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.361bae25.chunk.css",
+    "main.js": "/portfolio/static/js/main.8e5af39b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8e5af39b.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
     "static/js/2.5636488d.chunk.js": "/portfolio/static/js/2.5636488d.chunk.js",
     "static/js/2.5636488d.chunk.js.map": "/portfolio/static/js/2.5636488d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.5a4f18f8.chunk.css.map": "/portfolio/static/css/main.5a4f18f8.chunk.css.map",
+    "static/css/main.361bae25.chunk.css.map": "/portfolio/static/css/main.361bae25.chunk.css.map",
     "static/js/2.5636488d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5636488d.chunk.js.LICENSE.txt",
     "static/media/codedoctor.8c67be3e.png": "/portfolio/static/media/codedoctor.8c67be3e.png",
     "static/media/decryptor.2fe4ef58.png": "/portfolio/static/media/decryptor.2fe4ef58.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5483d5da.js",
     "static/js/2.5636488d.chunk.js",
-    "static/css/main.5a4f18f8.chunk.css",
-    "static/js/main.a3eac428.chunk.js"
+    "static/css/main.361bae25.chunk.css",
+    "static/js/main.8e5af39b.chunk.js"
   ]
 }
