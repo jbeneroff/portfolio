@@ -19,28 +19,32 @@ export default function MainContainer() {
             <a href="https://decryptor.netlify.app/">
               <img id='logo1' src={logo1} alt="" />
             </a>
-            <p>DeCryptor is an online community where crypto traders and enthusiasts can engage in a discussion and share their thoughts on the the most popular cryptocurrencies. Users can create an account, view information on top cryptocurrencies, post about a specific cryptocurrency, and comment on other posts.</p>
+            <p className='project-info'>DeCryptor is an online community where crypto traders and enthusiasts can engage in a discussion and share their thoughts on the the most popular cryptocurrencies. Users can create an account, view information on top cryptocurrencies, post about a specific cryptocurrency, and comment on other posts.</p>
+            <p className='project-stack'>Ruby on Rails, React (JavaScript)</p>
           </div>
           <div id='proj2'>
             <h2>Code Doctor</h2>
             <a href="https://codedoctor.netlify.app/">
               <img id='logo2' src={logo2} alt="" />
             </a>
-            <p>Code Doctor is a forum for all things coding/programming/development. Users can create accounts, create posts with their coding questions, and reply to other users’ posts with comments/answers. The goal is to empower a community of developers of all levels to share knowledge and receive feedback.</p>
+            <p className='project-info'>Code Doctor is a forum for all things coding/programming/development. Users can create accounts, create posts with their coding questions, and reply to other users’ posts with comments/answers. The goal is to empower a community of developers of all levels to share knowledge and receive feedback.</p>
+            <p className='project-stack'>MongoDB, Express, React (JavaScript)</p>
           </div>
           <div id='proj3'>
             <h2>NeuroLog</h2>
             <a href="https://elegant-archimedes-c68a8e.netlify.app/">
               <img id='logo3' src={logo3} alt="" />
             </a>
-            <p>NeuroLog is a react build which shows users a database of neuroscience-related research articles. Users will be able to view current research, add new articles, and delete them. It will have a second Airtable with a popular news section geared towards less science-inclined users.</p>
+            <p className='project-info'>NeuroLog is a react build which shows users a database of neuroscience-related research articles. Users can view current research, add new articles, and delete them. It has a second Airtable with a popular news section geared towards less science-inclined users.</p>
+            <p className='project-stack'>React (JavaScript), AirTable</p>
           </div>
           <div id='proj4'>
             <h2>FinView</h2>
             <a href="https://jbeneroff.github.io/Stock-Data-Project/">
               <img id='logo4' src={logo4} alt="" />
             </a>
-            <p>FinView offers a search by stock ticker. Real-time share price as well as a company profile with a financial overview for the searched stock will be provided.</p>
+            <p className='project-info'>FinView offers a search by stock ticker. Real-time share price as well as a company profile with a financial overview for the searched stock will be provided.</p>
+            <p className='project-stack'>JavaScript, HTML, CSS</p>
           </div>
         </div>
       </div>
