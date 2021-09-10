@@ -25,6 +25,11 @@
   text-decoration: none;
   font-size: 18px;
   font-family: "Montserrat", sans-serif;
+  transition: all 0.3s;
+}
+
+.nav-item:hover {
+  transform: scale(1.1);
 }
 
 @media only screen and (max-width: 450px) {
