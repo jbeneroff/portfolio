@@ -32,7 +32,7 @@ export default function MainContainer() {
           </div>
           <div id='proj3'>
             <h2>NeuroLog</h2>
-            <a href="https://elegant-archimedes-c68a8e.netlify.app/">
+            <a href="https://neurolog.netlify.app/">
               <img id='logo3' src={logo3} alt="" />
             </a>
             <p className='project-info'>NeuroLog is a react build which shows users a database of neuroscience-related research articles. Users can view current research, add new articles, and delete them. It has a second Airtable with a popular news section geared towards less science-inclined users.</p>
