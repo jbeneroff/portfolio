@@ -6,6 +6,12 @@
   padding: 140px 10px 100px 10px;
 }
 
+/* #me {
+  height: 400px;
+  width: auto;
+  border-radius: 10px;
+} */
+
 #about-header {
   color: white;
   font-family: "Montserrat", sans-serif;
@@ -34,6 +40,7 @@
 #logo1, #logo2, #logo3, #logo4 {
   height: 150px;
   width: 300px;
+  border-radius: 5px;
   transition: all 0.3s;
 }
 
