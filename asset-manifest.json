@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a9480d81.chunk.css",
-    "main.js": "/portfolio/static/js/main.86f9c652.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.86f9c652.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ee6ebc01.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ee6ebc01.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5483d5da.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5483d5da.js.map",
     "static/js/2.5636488d.chunk.js": "/portfolio/static/js/2.5636488d.chunk.js",
@@ -14,12 +14,12 @@
     "static/media/decryptor.2fe4ef58.png": "/portfolio/static/media/decryptor.2fe4ef58.png",
     "static/media/finview.50db9113.png": "/portfolio/static/media/finview.50db9113.png",
     "static/media/neurolog.b91e3b17.png": "/portfolio/static/media/neurolog.b91e3b17.png",
-    "static/media/resume.3869b6cc.pdf": "/portfolio/static/media/resume.3869b6cc.pdf"
+    "static/media/resume.4bd72756.pdf": "/portfolio/static/media/resume.4bd72756.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.5483d5da.js",
     "static/js/2.5636488d.chunk.js",
     "static/css/main.a9480d81.chunk.css",
-    "static/js/main.86f9c652.chunk.js"
+    "static/js/main.ee6ebc01.chunk.js"
   ]
 }
